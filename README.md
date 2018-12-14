@@ -14,7 +14,7 @@ Il repository [new-ux-guidelines](https://github.com/italia/spid-idp-login-layou
 
 ## Licenze
 
-Il font Titillium in `css/main.min.css` è di [Accademia di Belle Arti Urbino] (http://www.campivisivi.net/titillium/) con licenza [SIL Open Font License 1.1]
+Il font Titillium in `css/main.min.css` è di [Accademia di Belle Arti Urbino] (http://nta.accademiadiurbino.it/titillium.html) con licenza [SIL Open Font License 1.1]
 
 Il file `js/jquery.min.js` è di [The jQuery Foundation] (https://jquery.com/), copyright The jQuery Foundation, con licenza [MIT].
 
